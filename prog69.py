@@ -7,6 +7,7 @@ def main():
         except ValueError:
             print("You must enter an integer. Please try again.")
     print("Double it and give it to the next person: ", n1 * 2)
+
+
 if __name__ == "__main__":
     main()
-
