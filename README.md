@@ -8,4 +8,4 @@ A fun repo with the source codes to double an integer and return the value to th
 * [Node.js](src/Node.js/prog69.js)
 * [Python](src/Python/prog69.py)
 * [Ruby](src/Ruby/prog69.rb)
-* [Rust](src/Rust/[prog69.rs)
+* [Rust](src/Rust/prog69.rs)
