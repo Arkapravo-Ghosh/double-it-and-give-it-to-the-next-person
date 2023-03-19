@@ -1,0 +1,30 @@
+# VS Code Configuration
+.vscode
+
+# Kotlin
+META-INF/
+*.kotlin_module
+
+# Python
+*.py[cod]
+__pycache__/
+dist
+build
+
+# C/C++
+*.o
+
+# Java
+*.jar
+*.class
+
+# Dart
+*.dart_tool/
+*.packages
+*.pub-cache/
+
+# Rust
+target/
+
+# Node.js
+node_modules/
