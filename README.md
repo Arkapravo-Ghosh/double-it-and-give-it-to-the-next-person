@@ -9,3 +9,4 @@ A fun repo with the source codes to double an integer and return the value to th
 * [Python](src/Python/prog69.py)
 * [Ruby](src/Ruby/prog69.rb)
 * [Rust](src/Rust/prog69.rs)
+* [R_Programming_Language] (src/R/prog69.r)
