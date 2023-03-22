@@ -11,4 +11,3 @@ A fun repo with the source codes to double an integer and return the value to th
 * [R](src/R/prog69.r)
 * [Ruby](src/Ruby/prog69.rb)
 * [Rust](src/Rust/prog69.rs)
-
