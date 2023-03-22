@@ -28,3 +28,6 @@ target/
 
 # Node.js
 node_modules/
+
+# macOS specific
+.DS_Store
