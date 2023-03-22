@@ -12,7 +12,7 @@ dist
 build
 
 # C/C++
-*.o
+a.out
 
 # Java
 *.jar
@@ -31,3 +31,6 @@ node_modules/
 
 # macOS specific
 .DS_Store
+
+# Binary files
+prog69
