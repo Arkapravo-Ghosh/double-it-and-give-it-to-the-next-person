@@ -12,4 +12,4 @@ A fun repo with the source codes to double an integer and return the value to th
 * [Ruby](src/Ruby/prog69.rb)
 * [Rust](src/Rust/prog69.rs)
 #### NOTE:
-* Always use `prog69` as the file name for programs followed by the extension
+* Always use `prog69` as the file name for programs, followed by the extension
